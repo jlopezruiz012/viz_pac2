@@ -1,0 +1,649 @@
+any;àmbits territorials de planificació;sexe;concepte;estat;valor
+1998;Metropolità;homes;població;;2069125
+1998;Metropolità;dones;població;;2194724
+1998;Metropolità;total;població;;4263849
+1998;Comarques Gironines;homes;població;;263743
+1998;Comarques Gironines;dones;població;;268364
+1998;Comarques Gironines;total;població;;532107
+1998;Camp de Tarragona;homes;població;;211175
+1998;Camp de Tarragona;dones;població;;213848
+1998;Camp de Tarragona;total;població;;425023
+1998;Terres de l'Ebre;homes;població;;77164
+1998;Terres de l'Ebre;dones;població;;78058
+1998;Terres de l'Ebre;total;població;;155222
+1998;Ponent;homes;població;;146419
+1998;Ponent;dones;població;;148988
+1998;Ponent;total;població;;295407
+1998;Comarques Centrals;homes;població;;203808
+1998;Comarques Centrals;dones;població;;210658
+1998;Comarques Centrals;total;població;;414466
+1998;Alt Pirineu i Aran;homes;població;;31250
+1998;Alt Pirineu i Aran;dones;població;;30286
+1998;Alt Pirineu i Aran;total;població;;61536
+1998;Penedès;homes;població;..;null
+1998;Penedès;dones;població;..;null
+1998;Penedès;total;població;..;null
+1998;Catalunya;homes;població;;3002684
+1998;Catalunya;dones;població;;3144926
+1998;Catalunya;total;població;;6147610
+1999;Metropolità;homes;població;;2089310
+1999;Metropolità;dones;població;;2212411
+1999;Metropolità;total;població;;4301721
+1999;Comarques Gironines;homes;població;;269715
+1999;Comarques Gironines;dones;població;;273609
+1999;Comarques Gironines;total;població;;543324
+1999;Camp de Tarragona;homes;població;;215104
+1999;Camp de Tarragona;dones;població;;217441
+1999;Camp de Tarragona;total;població;;432545
+1999;Terres de l'Ebre;homes;població;;77589
+1999;Terres de l'Ebre;dones;població;;78365
+1999;Terres de l'Ebre;total;població;;155954
+1999;Ponent;homes;població;;147036
+1999;Ponent;dones;població;;149258
+1999;Ponent;total;població;;296294
+1999;Comarques Centrals;homes;població;;205066
+1999;Comarques Centrals;dones;població;;211606
+1999;Comarques Centrals;total;població;;416672
+1999;Alt Pirineu i Aran;homes;població;;31677
+1999;Alt Pirineu i Aran;dones;població;;30630
+1999;Alt Pirineu i Aran;total;població;;62307
+1999;Penedès;homes;població;..;null
+1999;Penedès;dones;població;..;null
+1999;Penedès;total;població;..;null
+1999;Catalunya;homes;població;;3035497
+1999;Catalunya;dones;població;;3173320
+1999;Catalunya;total;població;;6208817
+2000;Metropolità;homes;població;;2098625
+2000;Metropolità;dones;població;;2229822
+2000;Metropolità;total;població;;4328447
+2000;Comarques Gironines;homes;població;;275488
+2000;Comarques Gironines;dones;població;;278476
+2000;Comarques Gironines;total;població;;553964
+2000;Camp de Tarragona;homes;població;;219990
+2000;Camp de Tarragona;dones;població;;222259
+2000;Camp de Tarragona;total;població;;442249
+2000;Terres de l'Ebre;homes;població;;77755
+2000;Terres de l'Ebre;dones;població;;78529
+2000;Terres de l'Ebre;total;població;;156284
+2000;Ponent;homes;població;;147722
+2000;Ponent;dones;població;;150041
+2000;Ponent;total;població;;297763
+2000;Comarques Centrals;homes;població;;206849
+2000;Comarques Centrals;dones;població;;213190
+2000;Comarques Centrals;total;població;;420039
+2000;Alt Pirineu i Aran;homes;població;;32199
+2000;Alt Pirineu i Aran;dones;població;;31054
+2000;Alt Pirineu i Aran;total;població;;63253
+2000;Penedès;homes;població;..;null
+2000;Penedès;dones;població;..;null
+2000;Penedès;total;població;..;null
+2000;Catalunya;homes;població;;3058628
+2000;Catalunya;dones;població;;3203371
+2000;Catalunya;total;població;;6261999
+2001;Metropolità;homes;població;;2133168
+2001;Metropolità;dones;població;;2257245
+2001;Metropolità;total;població;;4390413
+2001;Comarques Gironines;homes;població;;283080
+2001;Comarques Gironines;dones;població;;284472
+2001;Comarques Gironines;total;població;;567552
+2001;Camp de Tarragona;homes;població;;226124
+2001;Camp de Tarragona;dones;població;;227165
+2001;Camp de Tarragona;total;població;;453289
+2001;Terres de l'Ebre;homes;població;;79565
+2001;Terres de l'Ebre;dones;població;;79232
+2001;Terres de l'Ebre;total;població;;158797
+2001;Ponent;homes;població;;149619
+2001;Ponent;dones;població;;151067
+2001;Ponent;total;població;;300686
+2001;Comarques Centrals;homes;població;;211083
+2001;Comarques Centrals;dones;població;;215478
+2001;Comarques Centrals;total;població;;426561
+2001;Alt Pirineu i Aran;homes;població;;32697
+2001;Alt Pirineu i Aran;dones;població;;31370
+2001;Alt Pirineu i Aran;total;població;;64067
+2001;Penedès;homes;població;..;null
+2001;Penedès;dones;població;..;null
+2001;Penedès;total;població;..;null
+2001;Catalunya;homes;població;;3115336
+2001;Catalunya;dones;població;;3246029
+2001;Catalunya;total;població;;6361365
+2002;Metropolità;homes;població;;2188641
+2002;Metropolità;dones;població;;2293982
+2002;Metropolità;total;població;;4482623
+2002;Comarques Gironines;homes;població;;293097
+2002;Comarques Gironines;dones;població;;292324
+2002;Comarques Gironines;total;població;;585421
+2002;Camp de Tarragona;homes;població;;234871
+2002;Camp de Tarragona;dones;població;;234414
+2002;Camp de Tarragona;total;població;;469285
+2002;Terres de l'Ebre;homes;població;;81576
+2002;Terres de l'Ebre;dones;població;;80295
+2002;Terres de l'Ebre;total;població;;161871
+2002;Ponent;homes;població;;152788
+2002;Ponent;dones;població;;152956
+2002;Ponent;total;població;;305744
+2002;Comarques Centrals;homes;població;;216599
+2002;Comarques Centrals;dones;població;;219360
+2002;Comarques Centrals;total;població;;435959
+2002;Alt Pirineu i Aran;homes;població;;33457
+2002;Alt Pirineu i Aran;dones;població;;32080
+2002;Alt Pirineu i Aran;total;població;;65537
+2002;Penedès;homes;població;..;null
+2002;Penedès;dones;població;..;null
+2002;Penedès;total;població;..;null
+2002;Catalunya;homes;població;;3201029
+2002;Catalunya;dones;població;;3305411
+2002;Catalunya;total;població;;6506440
+2003;Metropolità;homes;població;;2262578
+2003;Metropolità;dones;població;;2355679
+2003;Metropolità;total;població;;4618257
+2003;Comarques Gironines;homes;població;;304809
+2003;Comarques Gironines;dones;població;;301997
+2003;Comarques Gironines;total;població;;606806
+2003;Camp de Tarragona;homes;població;;244971
+2003;Camp de Tarragona;dones;població;;243291
+2003;Camp de Tarragona;total;població;;488262
+2003;Terres de l'Ebre;homes;població;;84020
+2003;Terres de l'Ebre;dones;població;;81867
+2003;Terres de l'Ebre;total;població;;165887
+2003;Ponent;homes;població;;156095
+2003;Ponent;dones;població;;155159
+2003;Ponent;total;població;;311254
+2003;Comarques Centrals;homes;població;;223225
+2003;Comarques Centrals;dones;població;;223790
+2003;Comarques Centrals;total;població;;447015
+2003;Alt Pirineu i Aran;homes;població;;34152
+2003;Alt Pirineu i Aran;dones;població;;32513
+2003;Alt Pirineu i Aran;total;població;;66665
+2003;Penedès;homes;població;..;null
+2003;Penedès;dones;població;..;null
+2003;Penedès;total;població;..;null
+2003;Catalunya;homes;població;;3309850
+2003;Catalunya;dones;població;;3394296
+2003;Catalunya;total;població;;6704146
+2004;Metropolità;homes;població;;2290445
+2004;Metropolità;dones;població;;2383203
+2004;Metropolità;total;població;;4673648
+2004;Comarques Gironines;homes;població;;313173
+2004;Comarques Gironines;dones;població;;309763
+2004;Comarques Gironines;total;població;;622936
+2004;Camp de Tarragona;homes;població;;253865
+2004;Camp de Tarragona;dones;població;;251486
+2004;Camp de Tarragona;total;població;;505351
+2004;Terres de l'Ebre;homes;població;;85742
+2004;Terres de l'Ebre;dones;població;;83051
+2004;Terres de l'Ebre;total;població;;168793
+2004;Ponent;homes;població;;159602
+2004;Ponent;dones;població;;157581
+2004;Ponent;total;població;;317183
+2004;Comarques Centrals;homes;població;;228361
+2004;Comarques Centrals;dones;població;;228661
+2004;Comarques Centrals;total;població;;457022
+2004;Alt Pirineu i Aran;homes;població;;35141
+2004;Alt Pirineu i Aran;dones;població;;33245
+2004;Alt Pirineu i Aran;total;població;;68386
+2004;Penedès;homes;població;..;null
+2004;Penedès;dones;població;..;null
+2004;Penedès;total;població;..;null
+2004;Catalunya;homes;població;;3366329
+2004;Catalunya;dones;població;;3446990
+2004;Catalunya;total;població;;6813319
+2005;Metropolità;homes;població;;2343145
+2005;Metropolità;dones;població;;2427035
+2005;Metropolità;total;població;;4770180
+2005;Comarques Gironines;homes;població;;328867
+2005;Comarques Gironines;dones;població;;321734
+2005;Comarques Gironines;total;població;;650601
+2005;Camp de Tarragona;homes;població;;267585
+2005;Camp de Tarragona;dones;població;;262530
+2005;Camp de Tarragona;total;població;;530115
+2005;Terres de l'Ebre;homes;població;;89312
+2005;Terres de l'Ebre;dones;població;;85480
+2005;Terres de l'Ebre;total;població;;174792
+2005;Ponent;homes;població;;167699
+2005;Ponent;dones;població;;162012
+2005;Ponent;total;població;;329711
+2005;Comarques Centrals;homes;població;;235169
+2005;Comarques Centrals;dones;població;;234168
+2005;Comarques Centrals;total;població;;469337
+2005;Alt Pirineu i Aran;homes;població;;36458
+2005;Alt Pirineu i Aran;dones;població;;34012
+2005;Alt Pirineu i Aran;total;població;;70470
+2005;Penedès;homes;població;..;null
+2005;Penedès;dones;població;..;null
+2005;Penedès;total;població;..;null
+2005;Catalunya;homes;població;;3468235
+2005;Catalunya;dones;població;;3526971
+2005;Catalunya;total;població;;6995206
+2006;Metropolità;homes;població;;2381229
+2006;Metropolità;dones;població;;2460136
+2006;Metropolità;total;població;;4841365
+2006;Comarques Gironines;homes;població;;341564
+2006;Comarques Gironines;dones;població;;331787
+2006;Comarques Gironines;total;població;;673351
+2006;Camp de Tarragona;homes;població;;279912
+2006;Camp de Tarragona;dones;població;;273092
+2006;Camp de Tarragona;total;població;;553004
+2006;Terres de l'Ebre;homes;població;;90764
+2006;Terres de l'Ebre;dones;població;;86698
+2006;Terres de l'Ebre;total;població;;177462
+2006;Ponent;homes;població;;171612
+2006;Ponent;dones;població;;164730
+2006;Ponent;total;població;;336342
+2006;Comarques Centrals;homes;població;;241424
+2006;Comarques Centrals;dones;població;;239914
+2006;Comarques Centrals;total;població;;481338
+2006;Alt Pirineu i Aran;homes;població;;37201
+2006;Alt Pirineu i Aran;dones;població;;34634
+2006;Alt Pirineu i Aran;total;població;;71835
+2006;Penedès;homes;població;..;null
+2006;Penedès;dones;població;..;null
+2006;Penedès;total;població;..;null
+2006;Catalunya;homes;població;;3543706
+2006;Catalunya;dones;població;;3590991
+2006;Catalunya;total;població;;7134697
+2007;Metropolità;homes;població;;2385233
+2007;Metropolità;dones;població;;2471346
+2007;Metropolità;total;població;;4856579
+2007;Comarques Gironines;homes;població;;350618
+2007;Comarques Gironines;dones;població;;341264
+2007;Comarques Gironines;total;població;;691882
+2007;Camp de Tarragona;homes;població;;291589
+2007;Camp de Tarragona;dones;població;;283744
+2007;Camp de Tarragona;total;població;;575333
+2007;Terres de l'Ebre;homes;població;;93492
+2007;Terres de l'Ebre;dones;població;;88970
+2007;Terres de l'Ebre;total;població;;182462
+2007;Ponent;homes;població;;173407
+2007;Ponent;dones;població;;167420
+2007;Ponent;total;població;;340827
+2007;Comarques Centrals;homes;població;;245499
+2007;Comarques Centrals;dones;població;;244020
+2007;Comarques Centrals;total;població;;489519
+2007;Alt Pirineu i Aran;homes;població;;38338
+2007;Alt Pirineu i Aran;dones;població;;35568
+2007;Alt Pirineu i Aran;total;població;;73906
+2007;Penedès;homes;població;..;null
+2007;Penedès;dones;població;..;null
+2007;Penedès;total;població;..;null
+2007;Catalunya;homes;població;;3578176
+2007;Catalunya;dones;població;;3632332
+2007;Catalunya;total;població;;7210508
+2008;Metropolità;homes;població;;2423396
+2008;Metropolità;dones;població;;2505456
+2008;Metropolità;total;població;;4928852
+2008;Comarques Gironines;homes;població;;364385
+2008;Comarques Gironines;dones;població;;352473
+2008;Comarques Gironines;total;població;;716858
+2008;Camp de Tarragona;homes;població;;304739
+2008;Camp de Tarragona;dones;població;;295065
+2008;Camp de Tarragona;total;població;;599804
+2008;Terres de l'Ebre;homes;població;;97285
+2008;Terres de l'Ebre;dones;població;;91806
+2008;Terres de l'Ebre;total;població;;189091
+2008;Ponent;homes;població;;179445
+2008;Ponent;dones;població;;172273
+2008;Ponent;total;població;;351718
+2008;Comarques Centrals;homes;població;;252122
+2008;Comarques Centrals;dones;població;;249346
+2008;Comarques Centrals;total;població;;501468
+2008;Alt Pirineu i Aran;homes;població;;39656
+2008;Alt Pirineu i Aran;dones;població;;36631
+2008;Alt Pirineu i Aran;total;població;;76287
+2008;Penedès;homes;població;..;null
+2008;Penedès;dones;població;..;null
+2008;Penedès;total;població;..;null
+2008;Catalunya;homes;població;;3661028
+2008;Catalunya;dones;població;;3703050
+2008;Catalunya;total;població;;7364078
+2009;Metropolità;homes;població;;2454291
+2009;Metropolità;dones;població;;2537902
+2009;Metropolità;total;població;;4992193
+2009;Comarques Gironines;homes;població;;371906
+2009;Comarques Gironines;dones;població;;361012
+2009;Comarques Gironines;total;població;;732918
+2009;Camp de Tarragona;homes;població;;310160
+2009;Camp de Tarragona;dones;població;;302281
+2009;Camp de Tarragona;total;població;;612441
+2009;Terres de l'Ebre;homes;població;;97744
+2009;Terres de l'Ebre;dones;població;;93116
+2009;Terres de l'Ebre;total;població;;190860
+2009;Ponent;homes;població;;183982
+2009;Ponent;dones;població;;176528
+2009;Ponent;total;població;;360510
+2009;Comarques Centrals;homes;població;;256012
+2009;Comarques Centrals;dones;població;;253658
+2009;Comarques Centrals;total;població;;509670
+2009;Alt Pirineu i Aran;homes;població;;39670
+2009;Alt Pirineu i Aran;dones;població;;37158
+2009;Alt Pirineu i Aran;total;població;;76828
+2009;Penedès;homes;població;..;null
+2009;Penedès;dones;població;..;null
+2009;Penedès;total;població;..;null
+2009;Catalunya;homes;població;;3713765
+2009;Catalunya;dones;població;;3761655
+2009;Catalunya;total;població;;7475420
+2010;Metropolità;homes;població;;2460833
+2010;Metropolità;dones;població;;2552128
+2010;Metropolità;total;població;;5012961
+2010;Comarques Gironines;homes;població;;373190
+2010;Comarques Gironines;dones;població;;365162
+2010;Comarques Gironines;total;població;;738352
+2010;Camp de Tarragona;homes;població;;311305
+2010;Camp de Tarragona;dones;població;;305547
+2010;Camp de Tarragona;total;població;;616852
+2010;Terres de l'Ebre;homes;població;;97736
+2010;Terres de l'Ebre;dones;població;;93832
+2010;Terres de l'Ebre;total;població;;191568
+2010;Ponent;homes;població;;185405
+2010;Ponent;dones;població;;178495
+2010;Ponent;total;població;;363900
+2010;Comarques Centrals;homes;població;;256611
+2010;Comarques Centrals;dones;població;;255475
+2010;Comarques Centrals;total;població;;512086
+2010;Alt Pirineu i Aran;homes;població;;39435
+2010;Alt Pirineu i Aran;dones;població;;37227
+2010;Alt Pirineu i Aran;total;població;;76662
+2010;Penedès;homes;població;..;null
+2010;Penedès;dones;població;..;null
+2010;Penedès;total;població;..;null
+2010;Catalunya;homes;població;;3724515
+2010;Catalunya;dones;població;;3787866
+2010;Catalunya;total;població;;7512381
+2011;Metropolità;homes;població;;2339353
+2011;Metropolità;dones;població;;2437689
+2011;Metropolità;total;població;;4777042
+2011;Comarques Gironines;homes;població;;373793
+2011;Comarques Gironines;dones;població;;368106
+2011;Comarques Gironines;total;població;;741899
+2011;Camp de Tarragona;homes;població;;260792
+2011;Camp de Tarragona;dones;població;;257863
+2011;Camp de Tarragona;total;població;;518655
+2011;Terres de l'Ebre;homes;població;;97653
+2011;Terres de l'Ebre;dones;població;;93978
+2011;Terres de l'Ebre;total;població;;191631
+2011;Ponent;homes;població;;186190
+2011;Ponent;dones;població;;179832
+2011;Ponent;total;població;;366022
+2011;Comarques Centrals;homes;població;;197336
+2011;Comarques Centrals;dones;població;;198081
+2011;Comarques Centrals;total;població;;395417
+2011;Alt Pirineu i Aran;homes;població;;39733
+2011;Alt Pirineu i Aran;dones;població;;37456
+2011;Alt Pirineu i Aran;total;població;;77189
+2011;Penedès;homes;població;;237346
+2011;Penedès;dones;població;;234417
+2011;Penedès;total;població;;471763
+2011;Catalunya;homes;població;;3732196
+2011;Catalunya;dones;població;;3807422
+2011;Catalunya;total;població;;7539618
+2012;Metropolità;homes;població;;2345992
+2012;Metropolità;dones;població;;2452151
+2012;Metropolità;total;població;;4798143
+2012;Comarques Gironines;homes;població;;375678
+2012;Comarques Gironines;dones;població;;370884
+2012;Comarques Gironines;total;població;;746562
+2012;Camp de Tarragona;homes;població;;261483
+2012;Camp de Tarragona;dones;població;;259752
+2012;Camp de Tarragona;total;població;;521235
+2012;Terres de l'Ebre;homes;població;;97761
+2012;Terres de l'Ebre;dones;població;;94065
+2012;Terres de l'Ebre;total;població;;191826
+2012;Ponent;homes;població;;186932
+2012;Ponent;dones;població;;181052
+2012;Ponent;total;població;;367984
+2012;Comarques Centrals;homes;població;;197035
+2012;Comarques Centrals;dones;població;;198515
+2012;Comarques Centrals;total;població;;395550
+2012;Alt Pirineu i Aran;homes;població;;39148
+2012;Alt Pirineu i Aran;dones;població;;37146
+2012;Alt Pirineu i Aran;total;població;;76294
+2012;Penedès;homes;població;;237599
+2012;Penedès;dones;població;;235715
+2012;Penedès;total;població;;473314
+2012;Catalunya;homes;població;;3741628
+2012;Catalunya;dones;població;;3829280
+2012;Catalunya;total;població;;7570908
+2013;Metropolità;homes;població;;2336390
+2013;Metropolità;dones;població;;2452032
+2013;Metropolità;total;població;;4788422
+2013;Comarques Gironines;homes;població;;375050
+2013;Comarques Gironines;dones;població;;371727
+2013;Comarques Gironines;total;població;;746777
+2013;Camp de Tarragona;homes;població;;260406
+2013;Camp de Tarragona;dones;població;;259794
+2013;Camp de Tarragona;total;població;;520200
+2013;Terres de l'Ebre;homes;població;;96022
+2013;Terres de l'Ebre;dones;població;;92856
+2013;Terres de l'Ebre;total;població;;188878
+2013;Ponent;homes;població;;186249
+2013;Ponent;dones;població;;180861
+2013;Ponent;total;població;;367110
+2013;Comarques Centrals;homes;població;;196493
+2013;Comarques Centrals;dones;població;;198470
+2013;Comarques Centrals;total;població;;394963
+2013;Alt Pirineu i Aran;homes;població;;38172
+2013;Alt Pirineu i Aran;dones;població;;36710
+2013;Alt Pirineu i Aran;total;població;;74882
+2013;Penedès;homes;població;;236536
+2013;Penedès;dones;població;;235882
+2013;Penedès;total;població;;472418
+2013;Catalunya;homes;població;;3725318
+2013;Catalunya;dones;població;;3828332
+2013;Catalunya;total;població;;7553650
+2014;Metropolità;homes;població;;2326165
+2014;Metropolità;dones;població;;2448396
+2014;Metropolità;total;població;;4774561
+2014;Comarques Gironines;homes;població;;371798
+2014;Comarques Gironines;dones;població;;369926
+2014;Comarques Gironines;total;població;;741724
+2014;Camp de Tarragona;homes;població;;257270
+2014;Camp de Tarragona;dones;població;;258136
+2014;Camp de Tarragona;total;població;;515406
+2014;Terres de l'Ebre;homes;població;;93840
+2014;Terres de l'Ebre;dones;població;;91454
+2014;Terres de l'Ebre;total;població;;185294
+2014;Ponent;homes;població;;185016
+2014;Ponent;dones;població;;180257
+2014;Ponent;total;població;;365273
+2014;Comarques Centrals;homes;població;;195215
+2014;Comarques Centrals;dones;població;;197621
+2014;Comarques Centrals;total;població;;392836
+2014;Alt Pirineu i Aran;homes;població;;37357
+2014;Alt Pirineu i Aran;dones;població;;36200
+2014;Alt Pirineu i Aran;total;població;;73557
+2014;Penedès;homes;població;;235079
+2014;Penedès;dones;població;;235173
+2014;Penedès;total;població;;470252
+2014;Catalunya;homes;població;;3701740
+2014;Catalunya;dones;població;;3817163
+2014;Catalunya;total;població;;7518903
+2015;Metropolità;homes;població;;2324393
+2015;Metropolità;dones;població;;2451714
+2015;Metropolità;total;població;;4776107
+2015;Comarques Gironines;homes;població;;369590
+2015;Comarques Gironines;dones;població;;369092
+2015;Comarques Gironines;total;població;;738682
+2015;Camp de Tarragona;homes;població;;254995
+2015;Camp de Tarragona;dones;població;;257305
+2015;Camp de Tarragona;total;població;;512300
+2015;Terres de l'Ebre;homes;població;;92389
+2015;Terres de l'Ebre;dones;població;;90478
+2015;Terres de l'Ebre;total;població;;182867
+2015;Ponent;homes;població;;184027
+2015;Ponent;dones;població;;179756
+2015;Ponent;total;població;;363783
+2015;Comarques Centrals;homes;població;;197304
+2015;Comarques Centrals;dones;població;;199734
+2015;Comarques Centrals;total;població;;397038
+2015;Alt Pirineu i Aran;homes;població;;37126
+2015;Alt Pirineu i Aran;dones;població;;35918
+2015;Alt Pirineu i Aran;total;població;;73044
+2015;Penedès;homes;població;;231921
+2015;Penedès;dones;població;;232364
+2015;Penedès;total;població;;464285
+2015;Catalunya;homes;població;;3691745
+2015;Catalunya;dones;població;;3816361
+2015;Catalunya;total;població;;7508106
+2016;Metropolità;homes;població;;2332129
+2016;Metropolità;dones;població;;2461463
+2016;Metropolità;total;població;;4793592
+2016;Comarques Gironines;homes;població;;369640
+2016;Comarques Gironines;dones;població;;369609
+2016;Comarques Gironines;total;població;;739249
+2016;Camp de Tarragona;homes;població;;254280
+2016;Camp de Tarragona;dones;població;;257351
+2016;Camp de Tarragona;total;població;;511631
+2016;Terres de l'Ebre;homes;població;;91257
+2016;Terres de l'Ebre;dones;població;;89598
+2016;Terres de l'Ebre;total;població;;180855
+2016;Ponent;homes;població;;183536
+2016;Ponent;dones;població;;178848
+2016;Ponent;total;població;;362384
+2016;Comarques Centrals;homes;població;;197456
+2016;Comarques Centrals;dones;població;;199688
+2016;Comarques Centrals;total;població;;397144
+2016;Alt Pirineu i Aran;homes;població;;36861
+2016;Alt Pirineu i Aran;dones;població;;35627
+2016;Alt Pirineu i Aran;total;població;;72488
+2016;Penedès;homes;població;;232209
+2016;Penedès;dones;població;;233044
+2016;Penedès;total;població;;465253
+2016;Catalunya;homes;població;;3697368
+2016;Catalunya;dones;població;;3825228
+2016;Catalunya;total;població;;7522596
+2017;Metropolità;homes;població;;2344050
+2017;Metropolità;dones;població;;2479311
+2017;Metropolità;total;població;;4823361
+2017;Comarques Gironines;homes;població;;370353
+2017;Comarques Gironines;dones;població;;371099
+2017;Comarques Gironines;total;població;;741452
+2017;Camp de Tarragona;homes;població;;253829
+2017;Camp de Tarragona;dones;població;;257506
+2017;Camp de Tarragona;total;població;;511335
+2017;Terres de l'Ebre;homes;població;;90450
+2017;Terres de l'Ebre;dones;població;;89058
+2017;Terres de l'Ebre;total;població;;179508
+2017;Ponent;homes;població;;182888
+2017;Ponent;dones;població;;178250
+2017;Ponent;total;població;;361138
+2017;Comarques Centrals;homes;població;;198367
+2017;Comarques Centrals;dones;població;;200400
+2017;Comarques Centrals;total;població;;398767
+2017;Alt Pirineu i Aran;homes;població;;36588
+2017;Alt Pirineu i Aran;dones;població;;35370
+2017;Alt Pirineu i Aran;total;població;;71958
+2017;Penedès;homes;població;;233675
+2017;Penedès;dones;població;;234636
+2017;Penedès;total;població;;468311
+2017;Catalunya;homes;població;;3710200
+2017;Catalunya;dones;població;;3845630
+2017;Catalunya;total;població;;7555830
+2018;Metropolità;homes;població;;2355229
+2018;Metropolità;dones;població;;2494462
+2018;Metropolità;total;població;;4849691
+2018;Comarques Gironines;homes;població;;373351
+2018;Comarques Gironines;dones;població;;374113
+2018;Comarques Gironines;total;població;;747464
+2018;Camp de Tarragona;homes;població;;255595
+2018;Camp de Tarragona;dones;població;;259500
+2018;Camp de Tarragona;total;població;;515095
+2018;Terres de l'Ebre;homes;població;;89724
+2018;Terres de l'Ebre;dones;població;;88674
+2018;Terres de l'Ebre;total;població;;178398
+2018;Ponent;homes;població;;183477
+2018;Ponent;dones;població;;178445
+2018;Ponent;total;població;;361922
+2018;Comarques Centrals;homes;població;;200353
+2018;Comarques Centrals;dones;població;;201846
+2018;Comarques Centrals;total;població;;402199
+2018;Alt Pirineu i Aran;homes;població;;36523
+2018;Alt Pirineu i Aran;dones;població;;35365
+2018;Alt Pirineu i Aran;total;població;;71888
+2018;Penedès;homes;població;;236074
+2018;Penedès;dones;població;;237334
+2018;Penedès;total;població;;473408
+2018;Catalunya;homes;població;;3730326
+2018;Catalunya;dones;població;;3869739
+2018;Catalunya;total;població;;7600065
+2019;Metropolità;homes;població;;2379523
+2019;Metropolità;dones;població;;2516353
+2019;Metropolità;total;població;;4895876
+2019;Comarques Gironines;homes;població;;377819
+2019;Comarques Gironines;dones;població;;378374
+2019;Comarques Gironines;total;població;;756193
+2019;Camp de Tarragona;homes;població;;258733
+2019;Camp de Tarragona;dones;població;;262553
+2019;Camp de Tarragona;total;població;;521286
+2019;Terres de l'Ebre;homes;població;;89837
+2019;Terres de l'Ebre;dones;població;;88550
+2019;Terres de l'Ebre;total;població;;178387
+2019;Ponent;homes;població;;184786
+2019;Ponent;dones;població;;179073
+2019;Ponent;total;població;;363859
+2019;Comarques Centrals;homes;població;;203448
+2019;Comarques Centrals;dones;població;;204158
+2019;Comarques Centrals;total;població;;407606
+2019;Alt Pirineu i Aran;homes;població;;36692
+2019;Alt Pirineu i Aran;dones;població;;35584
+2019;Alt Pirineu i Aran;total;població;;72276
+2019;Penedès;homes;població;;239285
+2019;Penedès;dones;població;;240449
+2019;Penedès;total;població;;479734
+2019;Catalunya;homes;població;;3770123
+2019;Catalunya;dones;població;;3905094
+2019;Catalunya;total;població;;7675217
+2020;Metropolità;homes;població;;2415365
+2020;Metropolità;dones;població;;2548610
+2020;Metropolità;total;població;;4963975
+2020;Comarques Gironines;homes;població;;383592
+2020;Comarques Gironines;dones;població;;383089
+2020;Comarques Gironines;total;població;;766681
+2020;Camp de Tarragona;homes;població;;263166
+2020;Camp de Tarragona;dones;població;;266229
+2020;Camp de Tarragona;total;població;;529395
+2020;Terres de l'Ebre;homes;població;;90811
+2020;Terres de l'Ebre;dones;població;;88763
+2020;Terres de l'Ebre;total;població;;179574
+2020;Ponent;homes;població;;187034
+2020;Ponent;dones;població;;179982
+2020;Ponent;total;població;;367016
+2020;Comarques Centrals;homes;població;;206503
+2020;Comarques Centrals;dones;població;;206609
+2020;Comarques Centrals;total;població;;413112
+2020;Alt Pirineu i Aran;homes;població;;36974
+2020;Alt Pirineu i Aran;dones;població;;35939
+2020;Alt Pirineu i Aran;total;població;;72913
+2020;Penedès;homes;població;;243519
+2020;Penedès;dones;població;;244294
+2020;Penedès;total;població;;487813
+2020;Catalunya;homes;població;;3826964
+2020;Catalunya;dones;població;;3953515
+2020;Catalunya;total;població;;7780479
+2021;Metropolità;homes;població;;2400175
+2021;Metropolità;dones;població;;2531070
+2021;Metropolità;total;població;;4931245
+2021;Comarques Gironines;homes;població;;385882
+2021;Comarques Gironines;dones;població;;385106
+2021;Comarques Gironines;total;població;;770988
+2021;Camp de Tarragona;homes;població;;263991
+2021;Camp de Tarragona;dones;població;;267496
+2021;Camp de Tarragona;total;població;;531487
+2021;Terres de l'Ebre;homes;població;;91218
+2021;Terres de l'Ebre;dones;població;;89165
+2021;Terres de l'Ebre;total;població;;180383
+2021;Ponent;homes;població;;187360
+2021;Ponent;dones;població;;179885
+2021;Ponent;total;població;;367245
+2021;Comarques Centrals;homes;població;;207080
+2021;Comarques Centrals;dones;població;;207069
+2021;Comarques Centrals;total;població;;414149
+2021;Alt Pirineu i Aran;homes;població;;37705
+2021;Alt Pirineu i Aran;dones;població;;36566
+2021;Alt Pirineu i Aran;total;població;;74271
+2021;Penedès;homes;població;;246420
+2021;Penedès;dones;població;;247174
+2021;Penedès;total;població;;493594
+2021;Catalunya;homes;població;;3819831
+2021;Catalunya;dones;població;;3943531
+2021;Catalunya;total;població;;7763362

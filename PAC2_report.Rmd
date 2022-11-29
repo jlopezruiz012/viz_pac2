@@ -1,0 +1,175 @@
+---
+title: "UOC. M2.959 - Visualització de Dades"
+subtitle: "A5: Estudi de tècniques de visualització de dades (PAC2)"
+author: "Joan Manuel Lopez Ruiz (jlopezruiz012)"
+#date: "2022-11-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load_libraries, include=FALSE, echo=FALSE}
+#Càrrega de les llibreries necessàries
+library(knitr)
+library(ggplot2)
+library(ggstream)
+library(ggHoriPlot)
+#library(streamgraph)
+library(dplyr)
+#library(lubridate)
+```
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Variables genèriques estils
+color_titols = "#00444d"
+color_subtit = "#007180"
+
+```
+
+
+## **Tècnica 1.** *Pie Chart*
+Gràfic circular dividit en sectors, de manera que la longitud de l'arc de cada sector és proporcional a la quantitat que representa per a cadascuna de les categories que s'hi inclouen. L'àrea de tot el cercle representa la suma total de les dades, i és equivalent al 100%.  
+
+Per a aquesta tècnica de visualització he triat la representació de la proporció de la població de les parts d'un territori (les quatre províncies catalanes i els deu districtes de Barcelona) respecte del total.  
+
+**Fonts de dades:**  
+Instituto Nacional de Estadística. Población por Provincias a 1 julio de 2022  
+<https://www.ine.es/jaxiT3/Tabla.htm?t=9687&L=0>  
+
+Portal Open Data Ajuntament de Barcelona. Padró d'habitants. Població de la ciutat de Barcelona segons sexe (dades a 1 de gener de 2022)  
+<https://opendata-ajuntament.barcelona.cat/data/ca/dataset/est-padro-sexe>  
+ 
+*Solució basada en la informació de la web:*  
+<https://r-graph-gallery.com/piechart-ggplot2.html>  
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Lectura dels fitxers
+popcat <- read.csv("data/popcat.csv")
+popbcn <- read.csv("data/popbcn.csv")
+
+# Pie Chart amb la població per província a Catalunya
+tit_cat <- "Població a Catalunya per província (2022)"
+sbt_cat <- "Font: Instituto Nacional de Estadística"
+
+ggplot(popcat, aes(x="", y=Total, fill=Provincias)) +
+  geom_bar(width = 1, stat = "identity") +
+  coord_polar("y", start=0) + ggtitle(tit_cat,sbt_cat) +
+  scale_fill_brewer("Província",palette="Set2") + theme_void() + 
+  theme(plot.title = element_text(size=16,color=color_titols),
+        plot.subtitle = element_text(size=11,color=color_subtit))
+
+ggsave("viz/piechart_1.png",bg="white")
+
+# Pie Chart amb la població per districte a Barcelona
+tit_bcn <- "Població a Barcelona per districte (2022)"
+sbt_bcn <- "Font: Ajuntament de Barcelona"
+
+pc2 <- ggplot(popbcn, aes(x="", y=Habitants, fill=Nom_Districte)) +
+  geom_bar(width = 1, stat = "identity") +
+  coord_polar("y", start=0) + ggtitle(tit_bcn,sbt_bcn) +
+  scale_fill_brewer("Districte", palette="Paired") + theme_void() + 
+  theme(plot.title = element_text(size=16, color=color_titols), 
+        plot.subtitle = element_text(size=11, color=color_subtit))
+
+ggsave("viz/piechart_2.png",bg="white")
+
+
+```
+
+
+---
+
+## **Tècnica 2.** *Stream Chart*
+Variació estètica de la gràfica d'àrees apilades (o stacked area graph) per tal de donar-li a la gràfica una sensació de dinamisme més gran. Mostra l'evolució del valor quantitatiu de diferents grups, codificats amb un color diferent, respecte un altre valor quantitatiu o temporal.  
+  
+Per a aquesta tècnica de visualització he triat la representació de l'evolució del fluxe total de passatgers al llarg del dia en diferents estacions de la xarxa de rodalies de Barcelona ubicades en altres poblacions.  
+
+**Font de les dades:**  
+Renfe Data. Volumen de Viajeros por Franja Horaria (Barcelona)  - Año 2018  
+<https://data.renfe.com/dataset/volumen-de-viajeros-por-franja-horaria-barcelona>  
+
+*Solució basada en la informació de la web:*  
+<https://r-charts.com/evolution/ggstream/>  
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Lectura dels fitxers
+rod_pass <- read.csv("data/rodalies.csv")
+
+tit_rod <- "Fluxe horari de viatgers a la xarxa de Rodalies de Barcelona (2018)"
+sbt_rod <- "Font: Portal Renfe Datos"
+
+ggplot(rod_pass, aes(x = TRAMO_HORARIO, y = TOTAL, fill = NOMBRE_ESTACION)) + geom_stream() +
+  ggtitle(tit_rod,sbt_rod) + 
+  scale_fill_brewer("Estació", palette="Dark2") +
+  theme_minimal() + 
+  theme(plot.title = element_text(size=16, color=color_titols),
+        plot.subtitle = element_text(size=11, color=color_subtit),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        axis.title.y=element_blank(),
+        axis.line.x=element_line(size=0.1, colour="black"),
+        axis.line.y=element_line(size=0.1, colour="black"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()) +
+  scale_x_discrete(name="Hora", limits=seq(0,23,by=3))
+
+ggsave("viz/streamgraph.png",bg="white")
+
+```
+
+
+---
+
+## **Tècnica 3.** *Horizon Chart*
+Gràfica d'àrea dividida horitzontalment en porcions d'igual alçada i sobreposades una sobre l'altra de manera que les porcions que representen valors absoluts més alts queden per sobre de les altres. Per a facilitar la lectura de la gràfica cada porció té major intensitat de color d'acord amb el valor absolut que representa. L'avantatge principal d'aquesta visualització és que permet mostrar múltiples sèries de dades en un espai relativament petit, alhora que permet parar atenció fàcilment als valors extrems.  
+  
+Per a aquesta tècnica de visualització he triat la representació de la variació porcentual de la població dels diferents àmbits territorials de Catalunya en el període entre 1999 i 2021.  
+
+**Font de les dades:**  
+Idescat. Padró municipal d'habitants. Població a 1 de gener per àmbits del pla territorial de Catalunya  
+<https://www.idescat.cat/dades/obertes/pmh>  
+
+*Solució basada en la informació de la web:*  
+<https://rivasiker.github.io/ggHoriPlot/>  
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+# Lectura dels fitxers
+diff_pop <- read.csv("data/diffpopcat.csv")
+
+tit_dff <- "Variació (%) de població per àmbit territorial a Catalunya"
+sbt_dff <- "Període 1999-2021 - Font: Idescat"
+
+# Tractament "manual" d'outliers, per fer-los entrar als cutpoints
+diff_pop$diferencia[diff_pop$diferencia < -6.00] <- -6.00
+
+# Definició manual dels cutpoints
+sca <- c(-6,-4.5,-3,-1.5,1.5,3,4.5,6)
+
+# Creació de la visualització amb la llibreria ggHoriPlot
+diff_pop %>% ggplot() +
+  geom_horizon(aes(any, diferencia, fill = ..Cutpoints..), 
+               origin = 0, horizonscale = sca, show.legend = FALSE) +
+  scale_fill_hcl(palette = 'RdYlGn') +
+  facet_grid(ambit~.) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size=16, color=color_titols),
+    plot.subtitle = element_text(size=11, color=color_subtit),
+    panel.spacing.y = unit(0, "lines"),
+    strip.text.y = element_text(size = 7, angle = 0, hjust = 0),
+    axis.text.y = element_blank(),
+    axis.title.y = element_blank(),
+    axis.ticks.y = element_blank(),
+    panel.border = element_blank()
+    ) +
+  #scale_x_date(expand=c(0,0), 
+  #             date_breaks = "1 month", 
+  #             date_labels = "%b") +
+  xlab('Any') +
+  ggtitle(tit_dff,sbt_dff)
+
+ggsave("viz/horizongraph.png",bg="white")
+
+```
